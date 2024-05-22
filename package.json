@@ -1,8 +1,8 @@
 {
-  "name": "increase-interview-1",
+  "name": "linked-list-ts",
   "version": "1.0.0",
   "description": "",
-  "main": "app.ts",
+  "main": "linked-list.ts",
   "type": "module",
   "scripts": {
     "test": "node --loader tsx --test --watch ./**/*.test.ts"
