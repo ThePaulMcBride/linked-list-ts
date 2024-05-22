@@ -1,0 +1,17 @@
+{
+  "name": "increase-interview-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "type": "module",
+  "scripts": {
+    "test": "node --loader tsx --test --watch ./**/*.test.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "tsx": "^4.7.1"
+  }
+}
